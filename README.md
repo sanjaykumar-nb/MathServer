@@ -134,8 +134,10 @@ urlpatterns = [
 
 ## SERVER SIDE PROCESSING:
 
+![image](https://github.com/sanjaykumar-nb/MathServer/assets/154039979/07d8d2d4-a556-4a89-8a3d-1e5f09636b39)
 
 ## HOMEPAGE:
+![image](https://github.com/sanjaykumar-nb/MathServer/assets/154039979/693ab810-22ce-421e-b000-47b4eebb63b7)
 
 
 ## RESULT:
